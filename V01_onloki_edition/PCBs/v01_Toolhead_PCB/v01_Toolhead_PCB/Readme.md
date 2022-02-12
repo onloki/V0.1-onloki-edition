@@ -1,8 +1,8 @@
 # V0.1 Toolhead PCB
 
-See the original Pancakeboard by Christoph Müller (https://github.com/christophmuellerorg/voron_0_pancake_board). I just simplified the PCB for my needs.
+Inspired by the original Pancake board by Christoph Müller (https://github.com/christophmuellerorg/voron_0_pancake_board). I just simplified the PCB for my needs.
 
-NOTE: This is not a Pancake Board! It share only the same outer dimensions and placement of some connectors (not same Pinout!)
+NOTE: This is not a Pancake Board! It share only the same outer dimensions and placement of some connectors (differend Pinout!)
 
 # BOM
 
@@ -18,3 +18,6 @@ Connectors for your cables:
 - 5x JST PH 2 Pin, PH2P BU
 - 1x JST PH 4 Pin, PH4P BU
 
+# Pinout
+
+Pinout graphics will come soon...
