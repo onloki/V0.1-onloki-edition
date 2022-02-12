@@ -1,6 +1,8 @@
 # V0.1 Frame PCB
 
-Inspired by the original V0_Umbilical by timmi99 (https://github.com/timmit99/Voron-Hardware/tree/V0-Umbilical/V0-Umbilical). I just took the footprint, so pinout and placemend of the connectors is different!
+This PCB is heavily inspired by the original V0_Umbilical by timmi99 (https://github.com/timmit99/Voron-Hardware/tree/V0-Umbilical/V0-Umbilical). 
+
+NOTE: I just took the footprint, so pinout and placemend of the connectors is different!
 
 # BOM
 
