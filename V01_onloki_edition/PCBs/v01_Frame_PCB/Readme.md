@@ -18,3 +18,6 @@ Connectors for the cabels:
 
 But you need also the connectors for your mcu...
 
+# Cover
+
+There is a Cover to preventing the cables and PFTE to hit the timing belt.
