@@ -2,6 +2,8 @@
 
 See the original Pancakeboard by Christoph Müller (https://github.com/christophmuellerorg/voron_0_pancake_board). I just simplified the PCB for my needs.
 
+NOTE: This is not a Pancake Board! It share only the same outer dimensions and placement of some connectors (not same Pinout!)
+
 # BOM
 
 For the PCB:
