@@ -6,4 +6,4 @@ I am not an electrical engineer therefore: Custom build and use at your own risk
 
 # Pinout
 
-The pin assignment is very similar but not identical! So pls use your brain or wait for the Pinout diagram.
+The pin assignment from the Molex connectors is very similar but not identical! So please use your brain when connecting the boards or waiting for the pinout diagram.
