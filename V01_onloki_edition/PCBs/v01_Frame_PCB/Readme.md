@@ -1,6 +1,6 @@
 # V0.1 Frame PCB
 
-See the original V0_Umbilical by timmi99 (https://github.com/timmit99/Voron-Hardware/tree/V0-Umbilical/V0-Umbilical). I just modded the PCB for my needs (open case and optics). 
+Inspired by the original V0_Umbilical by timmi99 (https://github.com/timmit99/Voron-Hardware/tree/V0-Umbilical/V0-Umbilical). I just took the footprint, so pinout and placemend of the connectors is different!
 
 # BOM
 
@@ -17,6 +17,10 @@ Connectors for the cabels:
 - 2x crimp ferrules for your wire
 
 But you need also the connectors for your mcu...
+
+# Pinout
+
+Pinout graphics will come soon...
 
 # Cover
 
